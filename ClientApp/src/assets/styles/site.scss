@@ -1,0 +1,15 @@
+@import './baseStyles.scss';
+
+.title-header {
+  color: $tpblue;
+}
+
+.error-message,
+.errorMessage {
+  color: $red;
+}
+
+.section-header {
+  color: $darkgray;
+  font-weight: bold;
+}
